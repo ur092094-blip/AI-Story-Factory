@@ -31,7 +31,7 @@ Return a complete, original story.
 
 url = (
     "https://generativelanguage.googleapis.com/"
-    "v1beta/models/gemini-2.5-flash:generateContent"
+    "v1beta/models/gemini-3.8-flash:generateContent"
 )
 
 payload = {
